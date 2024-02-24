@@ -5,7 +5,7 @@
 должны быть отличны от заданного, а остальные - равны ему.
 */
 
-import java.lang.reflect.Array;
+
 import java.util.Arrays;
 
 public class Task_3 {
