@@ -1,5 +1,4 @@
 import java.time.LocalDateTime;
-import java.util.Scanner;
 
 /**
  * HelloWorldDate
@@ -33,6 +32,11 @@ public class HelloWorldDate {
             Вывод данных - System.out.println(array[i]);
             Ввод данных - Scanner scanner = new Scanner(System.in); - открываем внешний поток(из терминала берутся данные)
             scanner.close(); - закрыть поток
+
+    Тернарные операторы:
+
+    ?  - тогда
+    : - иначе
        */ 
       
     }
