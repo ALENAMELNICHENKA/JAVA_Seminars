@@ -55,7 +55,7 @@ public class S_2_Task_5 {
       //Метод для настройки Логгера, чтобы выводил инфу в файл, а не в консоль
     public static void configLogger() {
           try {
-        FileHandler fh = new FileHandler("log.txt");
+        FileHandler fh = new FileHandler("log.txt", true);
         logger.addHandler(fh);
         SimpleFormatter formatter = new SimpleFormatter();
         fh.setFormatter(formatter);
