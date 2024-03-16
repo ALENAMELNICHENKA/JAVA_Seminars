@@ -1,0 +1,14 @@
+.git
+file.txt
+HelloWorldDate.java
+log.txt
+log.txt.lck
+S_2_Task_1.java
+S_2_Task_2.java
+S_2_Task_3.java
+S_2_Task_4.java
+S_2_Task_5.java
+Task_2.java
+Task_3.java
+Task_4.java
+text.txt
